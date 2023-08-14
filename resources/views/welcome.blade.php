@@ -7,12 +7,12 @@
     <div class="row justify-content-center">
         <div class="col-md-4">
             <a href="{{route('login-page')}}" id="login_page" class="btn btn-primary btn-lg btn-block mb-3">
-                <i class="fas fa-lock me-2"></i>Login Page
+                <i class="fas fa-lock me-2"></i>Got to Login Page
             </a>
         </div>
         <div class="col-md-4">
             <a href="{{route('register-page')}}" id="registration_page" class="btn btn-secondary btn-lg btn-blockzzz">
-                <i class="fas fa-user-plus me-2"></i>Registration Page
+                <i class="fas fa-user-plus me-2"></i>Got to Registration Page
             </a>
         </div>
     </div>
