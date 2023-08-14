@@ -11,7 +11,7 @@
             </a>
         </div>
         <div class="col-md-4">
-            <a href="{{route('register-page')}}" id="registration_page" class="btn btn-secondary btn-lg btn-blockzzz">
+            <a href="{{route('register-page')}}" id="registration_page" class="btn btn-secondary btn-lg btn-block">
                 <i class="fas fa-user-plus me-2"></i>Got to Registration Page
             </a>
         </div>
